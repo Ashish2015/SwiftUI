@@ -1,0 +1,6 @@
+framework module Pods_FunPhotos {
+  umbrella header "Pods-FunPhotos-umbrella.h"
+
+  export *
+  module * { export * }
+}
